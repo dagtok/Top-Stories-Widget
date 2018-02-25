@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Coliris WP Widget\n"
+"POT-Creation-Date: 2015-03-16 11:46-0600\n"
+"PO-Revision-Date: 2015-03-16 11:50-0600\n"
+"Last-Translator: Daniel Gutierrez <dagtok@kiibal.com>\n"
+"Language-Team: Kiibal <dagtok@kiibal.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../plugin.php:105
+msgid "Title:"
+msgstr "Widget de la Titre:"
+
+#: ../plugin.php:107
+msgid "Select the type of content displayed:"
+msgstr "Sélectionnez le type de contenu affiché:"
+
+#: ../plugin.php:109
+msgid "Pages"
+msgstr "Pages"
+
+#: ../plugin.php:110
+msgid "Recent Posts"
+msgstr "Articles récents"
+
+#: ../plugin.php:111
+msgid "Custom Post Type"
+msgstr "Custom Post Type"
+
+#: ../plugin.php:112
+msgid "Popular Posts"
+msgstr "Articles les plus lus"
+
+#: ../plugin.php:113
+msgid "Most Commented"
+msgstr "Articles les plus commentés"
+
+#: ../plugin.php:118
+msgid "Select effect:"
+msgstr "Sélectionnez effet :"
+
+#: ../plugin.php:156
+msgid "Select pages will be shown on this widget:"
+msgstr "Sélectionnez pages seront affichés sur ce widget:"
+
+#: ../plugin.php:181
+msgid "Select the post types you want to display:"
+msgstr "Sélectionnez les types de poste que vous souhaitez afficher :"
+
+#: ../plugin.php:211
+msgid "Category:"
+msgstr "Catégorie:"
+
+#: ../plugin.php:213
+msgid "All categories"
+msgstr "Toutes les catégories"
+
+#: ../plugin.php:227
+msgid "Filter Posts since:"
+msgstr "Filtre les messages depuis:"
+
+#: ../plugin.php:231
+msgid "Only show posts published on last"
+msgstr "N'afficher que les messages publiés sur le dernier"
+
+#: ../plugin.php:232
+msgid "days"
+msgstr "jours"
+
+#: ../plugin.php:233
+msgid "Fill with 0 to include all days"
+msgstr "Remplir de 0 à inclure tous les jours"
+
+#: ../plugin.php:236
+msgid "Max number of posts to display:"
+msgstr "Le nombre maximum d'articles à afficher:"
+
+#: ../plugin.php:240
+msgid "Keep widget's header theme style"
+msgstr "Gardez le style de thème d'en-tête de widget"
+
+#: ../plugin.php:241
+msgid "Fix Background Image"
+msgstr "Fixer l'image de fond"
+
+#: ../plugin.php:242
+msgid "Show animation on mouse over"
+msgstr "Afficher animation sur la souris sur"
+
+#: ../plugin.php:245
+msgid "Display date/category tag"
+msgstr "Affichage de la date / de catégorie tag"
+
+#: ../plugin.php:246
+msgid "Display category insted of date"
+msgstr "Afficher la catégorie lieu de la date"
+
+#: ../plugin.php:247
+msgid "Display visits counter"
+msgstr "Visites d'affichage contre"
+
+#: ../plugin.php:248
+msgid "Display Background Gradient"
+msgstr "Afficher le fond dégradé"
+
+#: ../plugin.php:254
+msgid "Choose title background color:"
+msgstr "Choisissez la couleur du titre de fond:"
+
+#: ../plugin.php:258
+msgid "Choose font color title:"
+msgstr "Choisissez couleur titre de la police:"
+
+#: ../plugin.php:265
+msgid "Choose background color:"
+msgstr "Choisissez la couleur de fond:"
+
+#: ../plugin.php:270
+msgid "Choose background color 2:"
+msgstr "Choisissez couleur titre de la police:"
+
+#: ../plugin.php:275
+msgid "Choose Font color:"
+msgstr "Choisissez la couleur de la police:"
+
+#: ../plugin.php:282
+msgid "Choose background color for date tag:"
+msgstr "Choisissez la couleur de fond pour la date tag:"
+
+#: ../plugin.php:286
+msgid "Choose font color for date tag:"
+msgstr "Choisissez la couleur de police pour la date tag:"
+
+#~ msgid "Color Distribution:"
+#~ msgstr "Indique la répartition des couleurs:"
+
+#~ msgid "Open Widgets Link in a new window?"
+#~ msgstr "Ouvrez Widgets lien dans une nouvelle fenêtre?"
